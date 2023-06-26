@@ -4,5 +4,6 @@ From the [Skill Factory Data Science cource](https://apps.skillfactory.ru/learni
 
 # Проекты
 [Проект 0. Игра"Угадай число"](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0)
+[Проект 1. Анализ резюме из HeadHunter](https://github.com/DariaGubskaya/SF_rep/tree/main/Project1)
 
 
