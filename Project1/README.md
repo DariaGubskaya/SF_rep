@@ -1,17 +1,17 @@
 # Проект 1. Анализ Резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
-[2. Какой кейс решаем?](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)    
-[3. Этапы работы над проектом](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
-[4. Результат](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)    
-[5. Выводы](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0) 
+[1. Описание проекта](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+[2. Какой кейс решаем?](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)    
+[3. Этапы работы над проектом](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+[4. Результат](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)    
+[5. Выводы](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5) 
 
 ### Описание проекта    
 Проект основан на данных компании HeadHunter. Некоторые соискатели не указывают уровень заработной платы в резюме, что мешает корректной работе рекомендательного алгоритма. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 В этом проекте осуществляется преобразование, очистка и исследование данных.
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?    
@@ -27,16 +27,16 @@
 3. Очистка данных
 В процессе разведывательного анализа были выявлены дефекты данных, которые корректировались в рамках задачи по очистки данных.
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 Результатом данной работы стал файл с чистыми, пригодными для анализа и моделирования данными
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 Очистка данных важный процесс, влияющий на качество проекта 
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/tree/main/Project0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
