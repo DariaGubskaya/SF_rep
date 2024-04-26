@@ -1,7 +1,7 @@
 # Проект 3. Разведывательный анализ данных для компании Booking
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[1. Описание проекта](https://github.com/DariaGubskaya/SF_rep/blob/main/Project_3/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 [2. Какой кейс решаем?](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)    
 [3. Этапы работы над проектом](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
 [4. Результат](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
@@ -11,7 +11,7 @@
 Одна из проблем компании Booking — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/edit/main/Project_3/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?    
@@ -23,16 +23,16 @@
 2. Построение модели на необработанных данных, оценка качества модели
 3. Обработка данных, добаление новых признаков для улучшения качества модели 
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/edit/main/Project_3/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 В результате обработки и добаления признаков удалось улучьшить качество модели
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/edit/main/Project_3/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 1. Добавление новых признаков привело к улучшению качества модели
 2. Нормализация и страндартизация не привели к ухудшению качества, не все методы улучшения данных эффективны, необходимо пробовать и подбирать наилучшие методы для каждого случая
 
-:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/blob/main/Project2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/DariaGubskaya/SF_rep/edit/main/Project_3/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
